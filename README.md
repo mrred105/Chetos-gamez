@@ -64,11 +64,11 @@
     <p class="includes">Incluye: Funciones personalizadas según el juego.</p>
 
     <h3>Contacto</h3>
-    <p>Atención las 24 horas. Para comunicarse y comprar chetos, entra a nuestro Discord: <a href="https://discord.gg/jxyMbqP2">Discord Chetos Gamez</a></p>
+    <p>Atención las 24 horas. Para comunicarse y comprar chetos, entra a nuestro Discord: <a href="https://discord.gg/jxyMbqP2" target="_blank">Discord Chetos Gamez</a></p>
     <p>O comunícate a nuestros TikToks:</p>
     <ul>
-        <li><a href="https://www.tiktok.com/@gamez.sil">gamez.sil</a></li>
-        <li><a href="https://www.tiktok.com/@lionwolf613">lionwolf613</a></li>
+        <li><a href="https://www.tiktok.com/@gamez.sil" target="_blank">gamez.sil</a></li>
+        <li><a href="https://www.tiktok.com/@lionwolf613" target="_blank">lionwolf613</a></li>
     </ul>
 
     <h3>Tienda Física</h3>
@@ -81,3 +81,4 @@
 
 </body>
 </html>
+
